@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nangel42
 - 👀 I’m interested in programming, videogames, football and cars!
-- 🌱 I currently want to learn Typescript and dive deeper into REACT.js 
+- 🌱 I currently want to learn Java and dive deeper into REACT.js 
 - 💞️ I’m looking to collaborate on a web design project, feel free to contact me if interested!
 - 📫 How to reach me ...
 - <a href="az_nick_angel@ymail.com">Email</a>
